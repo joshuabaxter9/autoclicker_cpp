@@ -1,0 +1,42 @@
+# --- Qt Creator & Build System Files ---
+
+# Build artifacts
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.dylib
+*.moc
+*.qrc.depends
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Auto-generated Qt files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Project user/IDE settings
+*.user
+*.pro.user
+*.creator.user
+*.autosave
+
+# Build output folders
+build/
+debug/
+release/
+
+# Logs
+*.log
+
+# macOS system file
+.DS_Store
+
+# Windows thumbnails and junk
+Thumbs.db
+desktop.ini
