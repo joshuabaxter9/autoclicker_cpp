@@ -4,6 +4,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
+    , clicker(new autoclicker(this))
 {
     ui->setupUi(this);
     setWindowTitle("EZ Autoclicker");

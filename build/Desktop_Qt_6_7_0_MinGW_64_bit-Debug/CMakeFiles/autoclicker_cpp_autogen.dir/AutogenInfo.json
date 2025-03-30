@@ -256,6 +256,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/autoclicker.h",
+			"MU",
+			"EWIEGA46WW/moc_autoclicker.cpp",
+			null
+		],
+		[
 			"C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -333,6 +339,11 @@
 	"SETTINGS_FILE" : "C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/autoclicker_cpp_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/autoclicker.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/main.cpp",
 			"MU",

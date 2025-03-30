@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="startButton">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -27,7 +27,7 @@
      <string>Start</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="stopButton">
     <property name="geometry">
      <rect>
       <x>290</x>
@@ -40,7 +40,7 @@
      <string>Stop</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="setLocationButton">
     <property name="geometry">
      <rect>
       <x>150</x>
@@ -53,7 +53,7 @@
      <string>Set Click Location</string>
     </property>
    </widget>
-   <widget class="QGroupBox" name="groupBox">
+   <widget class="QGroupBox" name="CPS_container">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -65,7 +65,7 @@
     <property name="title">
      <string>Clicks Per Second</string>
     </property>
-    <widget class="QCheckBox" name="checkBox">
+    <widget class="QCheckBox" name="CPS_CheckBox">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -78,7 +78,7 @@
       <string>Enable CPS</string>
      </property>
     </widget>
-    <widget class="QSpinBox" name="spinBox_2">
+    <widget class="QSpinBox" name="CPS_SpinBox">
      <property name="geometry">
       <rect>
        <x>80</x>
@@ -88,7 +88,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QLabel" name="label_7">
+    <widget class="QLabel" name="CPS_text1">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -101,7 +101,7 @@
       <string>Set mouse</string>
      </property>
     </widget>
-    <widget class="QLabel" name="label_8">
+    <widget class="QLabel" name="CPS_text2">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -115,7 +115,7 @@
      </property>
     </widget>
    </widget>
-   <widget class="QGroupBox" name="groupBox_3">
+   <widget class="QGroupBox" name="CPLMB_container">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -127,7 +127,7 @@
     <property name="title">
      <string>Clicks Per LMB</string>
     </property>
-    <widget class="QCheckBox" name="checkBox_2">
+    <widget class="QCheckBox" name="CPLMB_CheckBox">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -140,7 +140,7 @@
       <string>Enable CP-LMB</string>
      </property>
     </widget>
-    <widget class="QSpinBox" name="spinBox">
+    <widget class="QSpinBox" name="CPLMB_SpinBox">
      <property name="geometry">
       <rect>
        <x>100</x>
@@ -150,7 +150,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QLabel" name="label">
+    <widget class="QLabel" name="CPLMB_text1">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -163,7 +163,7 @@
       <string>Number of</string>
      </property>
     </widget>
-    <widget class="QLabel" name="label_2">
+    <widget class="QLabel" name="CPLMB_text2">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -177,7 +177,7 @@
      </property>
     </widget>
    </widget>
-   <widget class="QGroupBox" name="groupBox_4">
+   <widget class="QGroupBox" name="HFC_container">
     <property name="geometry">
      <rect>
       <x>400</x>
@@ -189,7 +189,7 @@
     <property name="title">
      <string>Hold for Clicks</string>
     </property>
-    <widget class="QCheckBox" name="checkBox_4">
+    <widget class="QCheckBox" name="HFC_CheckBox">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -202,7 +202,7 @@
       <string>Enable HFC</string>
      </property>
     </widget>
-    <widget class="QSpinBox" name="spinBox_4">
+    <widget class="QSpinBox" name="HFC_SpinBox">
      <property name="geometry">
       <rect>
        <x>100</x>
@@ -212,7 +212,7 @@
       </rect>
      </property>
     </widget>
-    <widget class="QLabel" name="label_5">
+    <widget class="QLabel" name="HFC_text1">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -225,7 +225,7 @@
       <string>Number of cps</string>
      </property>
     </widget>
-    <widget class="QLabel" name="label_6">
+    <widget class="QLabel" name="HFC_text2">
      <property name="geometry">
       <rect>
        <x>10</x>
@@ -239,7 +239,7 @@
      </property>
     </widget>
    </widget>
-   <widget class="QGroupBox" name="groupBox_2">
+   <widget class="QGroupBox" name="label_container">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -251,7 +251,7 @@
     <property name="title">
      <string>Status</string>
     </property>
-    <widget class="QLabel" name="label_9">
+    <widget class="QLabel" name="statusLabel">
      <property name="geometry">
       <rect>
        <x>20</x>

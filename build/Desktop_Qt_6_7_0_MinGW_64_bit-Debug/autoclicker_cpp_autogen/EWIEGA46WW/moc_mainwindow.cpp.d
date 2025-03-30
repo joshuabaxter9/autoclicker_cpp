@@ -1,5 +1,7 @@
 C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/mainwindow.h \
   C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/moc_predefs.h \
+  C:/Qt/6.7.0/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.7.0/mingw_64/include/QtCore/QTimer \
   C:/Qt/6.7.0/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/q20memory.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/q20type_traits.h \
@@ -13,6 +15,7 @@ C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_6
   C:/Qt/6.7.0/mingw_64/include/QtCore/qatomic.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qatomic_cxx11.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qbasicatomic.h \
+  C:/Qt/6.7.0/mingw_64/include/QtCore/qbasictimer.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qbindingstorage.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qbytearray.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qbytearrayalgorithms.h \
@@ -101,6 +104,7 @@ C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_6
   C:/Qt/6.7.0/mingw_64/include/QtCore/qtdeprecationmarkers.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qtenvironmentvariables.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.7.0/mingw_64/include/QtCore/qtimer.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qtmetamacros.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qtnoop.h \
   C:/Qt/6.7.0/mingw_64/include/QtCore/qtpreprocessorsupport.h \
@@ -348,4 +352,5 @@ C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_6
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
+  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/autoclicker.h

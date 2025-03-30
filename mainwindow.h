@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include "autoclicker.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -17,7 +18,12 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    //void onStartClicked();
+    //void onStopClicked();
+
 private:
     Ui::MainWindow *ui;
+    autoclicker *clicker;
 };
 #endif // MAINWINDOW_H
