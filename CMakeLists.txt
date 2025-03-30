@@ -23,6 +23,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(autoclicker_cpp
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        resources.qrc
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET autoclicker_cpp APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

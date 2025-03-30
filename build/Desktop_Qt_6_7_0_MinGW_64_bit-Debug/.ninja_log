@@ -1,0 +1,25 @@
+# ninja log v5
+11	113	7650075436135547	autoclicker_cpp_autogen/timestamp	d4ba8e2b067f0d2e
+162	1240	7650056099587579	CMakeFiles/autoclicker_cpp.dir/main.cpp.obj	f91bf11049eb9fad
+3	402	7650056086600502	build.ninja	75377208a401018a
+11	113	7650075436135547	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/mocs_compilation.cpp	d4ba8e2b067f0d2e
+11	113	7650075436135547	autoclicker_cpp_autogen/mocs_compilation.cpp	d4ba8e2b067f0d2e
+11	113	7650075436135547	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/timestamp	d4ba8e2b067f0d2e
+1206	1312	7650075448106504	autoclicker_cpp.exe	5d04205687586043
+394	1408	7650018154125279	CMakeFiles/autoclicker_cpp.dir/autoclicker_cpp_autogen/mocs_compilation.cpp.obj	ed69cfe488ea0cb4
+120	1206	7650075447071408	CMakeFiles/autoclicker_cpp.dir/mainwindow.cpp.obj	9b7c4a63781a98a6
+104	160	7650056088758824	autoclicker_cpp_autogen/EWIEGA46WW/qrc_resources.cpp	6152943422704003
+104	160	7650056088758824	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/EWIEGA46WW/qrc_resources.cpp	6152943422704003
+163	204	7650056089238821	CMakeFiles/autoclicker_cpp.dir/autoclicker_cpp_autogen/EWIEGA46WW/qrc_resources.cpp.obj	7d0162060bd81157
+11	113	7650079772241551	autoclicker_cpp_autogen/timestamp	d4ba8e2b067f0d2e
+11	113	7650079772241551	autoclicker_cpp_autogen/mocs_compilation.cpp	d4ba8e2b067f0d2e
+11	113	7650079772241551	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/timestamp	d4ba8e2b067f0d2e
+11	113	7650079772241551	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/mocs_compilation.cpp	d4ba8e2b067f0d2e
+120	1532	7650079786451544	CMakeFiles/autoclicker_cpp.dir/mainwindow.cpp.obj	9b7c4a63781a98a6
+1533	1644	7650079787536246	autoclicker_cpp.exe	5d04205687586043
+4	110	7650080074608189	autoclicker_cpp_autogen/timestamp	d4ba8e2b067f0d2e
+4	110	7650080074608189	autoclicker_cpp_autogen/mocs_compilation.cpp	d4ba8e2b067f0d2e
+4	110	7650080074608189	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/timestamp	d4ba8e2b067f0d2e
+4	110	7650080074608189	C:/Users/coolg/OneDrive/Documents/autoclicker_cpp/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/autoclicker_cpp_autogen/mocs_compilation.cpp	d4ba8e2b067f0d2e
+117	1234	7650080085856552	CMakeFiles/autoclicker_cpp.dir/mainwindow.cpp.obj	9b7c4a63781a98a6
+1234	1341	7650080086896712	autoclicker_cpp.exe	5d04205687586043

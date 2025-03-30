@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-7c38747ea8ae29f1dc24.json",
+					"jsonFile" : "directory-.-Debug-7fc5148757d668d4a55e.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "autoclicker_cpp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-autoclicker_cpp-Debug-4aa40a386f354931e665.json",
+					"jsonFile" : "target-autoclicker_cpp-Debug-4eb43f517e2da906032d.json",
 					"name" : "autoclicker_cpp",
 					"projectIndex" : 0
 				},

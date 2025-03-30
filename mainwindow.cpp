@@ -6,6 +6,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    setWindowTitle("EZ Autoclicker");
+    setFixedSize(width(), height());
 }
 
 MainWindow::~MainWindow()
