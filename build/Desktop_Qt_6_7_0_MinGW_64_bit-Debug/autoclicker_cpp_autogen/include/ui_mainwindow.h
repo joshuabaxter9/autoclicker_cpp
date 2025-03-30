@@ -27,7 +27,6 @@ public:
     QWidget *centralwidget;
     QPushButton *startButton;
     QPushButton *stopButton;
-    QPushButton *setLocationButton;
     QGroupBox *CPS_container;
     QCheckBox *CPS_CheckBox;
     QSpinBox *CPS_SpinBox;
@@ -55,13 +54,10 @@ public:
         centralwidget->setObjectName("centralwidget");
         startButton = new QPushButton(centralwidget);
         startButton->setObjectName("startButton");
-        startButton->setGeometry(QRect(10, 160, 111, 41));
+        startButton->setGeometry(QRect(90, 160, 111, 41));
         stopButton = new QPushButton(centralwidget);
         stopButton->setObjectName("stopButton");
-        stopButton->setGeometry(QRect(290, 160, 111, 41));
-        setLocationButton = new QPushButton(centralwidget);
-        setLocationButton->setObjectName("setLocationButton");
-        setLocationButton->setGeometry(QRect(150, 160, 111, 41));
+        stopButton->setGeometry(QRect(230, 160, 111, 41));
         CPS_container = new QGroupBox(centralwidget);
         CPS_container->setObjectName("CPS_container");
         CPS_container->setGeometry(QRect(10, 10, 171, 131));
@@ -109,7 +105,7 @@ public:
         HFC_text2->setGeometry(QRect(10, 90, 81, 20));
         label_container = new QGroupBox(centralwidget);
         label_container->setObjectName("label_container");
-        label_container->setGeometry(QRect(430, 150, 141, 51));
+        label_container->setGeometry(QRect(380, 150, 141, 51));
         statusLabel = new QLabel(label_container);
         statusLabel->setObjectName("statusLabel");
         statusLabel->setGeometry(QRect(20, 20, 71, 16));
@@ -125,7 +121,6 @@ public:
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
         startButton->setText(QCoreApplication::translate("MainWindow", "Start", nullptr));
         stopButton->setText(QCoreApplication::translate("MainWindow", "Stop", nullptr));
-        setLocationButton->setText(QCoreApplication::translate("MainWindow", "Set Click Location", nullptr));
         CPS_container->setTitle(QCoreApplication::translate("MainWindow", "Clicks Per Second", nullptr));
         CPS_CheckBox->setText(QCoreApplication::translate("MainWindow", "Enable CPS", nullptr));
         CPS_text1->setText(QCoreApplication::translate("MainWindow", "Set mouse", nullptr));

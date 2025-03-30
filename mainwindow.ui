@@ -17,7 +17,7 @@
    <widget class="QPushButton" name="startButton">
     <property name="geometry">
      <rect>
-      <x>10</x>
+      <x>90</x>
       <y>160</y>
       <width>111</width>
       <height>41</height>
@@ -30,7 +30,7 @@
    <widget class="QPushButton" name="stopButton">
     <property name="geometry">
      <rect>
-      <x>290</x>
+      <x>230</x>
       <y>160</y>
       <width>111</width>
       <height>41</height>
@@ -38,19 +38,6 @@
     </property>
     <property name="text">
      <string>Stop</string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="setLocationButton">
-    <property name="geometry">
-     <rect>
-      <x>150</x>
-      <y>160</y>
-      <width>111</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Set Click Location</string>
     </property>
    </widget>
    <widget class="QGroupBox" name="CPS_container">
@@ -242,7 +229,7 @@
    <widget class="QGroupBox" name="label_container">
     <property name="geometry">
      <rect>
-      <x>430</x>
+      <x>380</x>
       <y>150</y>
       <width>141</width>
       <height>51</height>
